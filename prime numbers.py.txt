@@ -1,0 +1,8 @@
+a=200
+
+for a in range(2,a+1):
+ 
+ if (a%2==1 or a>=1):
+   
+   
+ print (a,"is a prime number")
