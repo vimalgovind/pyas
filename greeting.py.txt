@@ -1,0 +1,13 @@
+def greeting():
+  str=(input("what is your name"))
+  print ("nice to meet you" ,str)
+  str=(input("what is your favorite color"))
+  print ("nice color")
+  str=(input("what is your favorite food"))
+  print ("sounds yummy")
+greeting()
+greeting()
+str=(input("do you want to leave"))
+while greeting=="no":
+   greeting()  
+   print("have a nice day")
