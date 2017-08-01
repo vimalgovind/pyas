@@ -1,0 +1,29 @@
+def temperature ():
+ 
+ f =int(input("enter the temperature in farenheit"))
+ 
+ c= ((5.0/9.0)*(f-32))
+ 
+ print ("temperature in degrees celcius",c)
+
+temperature()  
+
+
+
+def temperature ():
+
+  f =int(input("enter the temperature in farenheit"))
+
+  c= ((5.0/9.0)*(f-32))
+ 
+ print ("temperature in degrees celcius",c)
+
+
+a = "yes"
+
+while a=="yes":
+ 
+  temperature()
+   
+a=input(("would you like to continue"))  
+  
