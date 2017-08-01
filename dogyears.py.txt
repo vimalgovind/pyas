@@ -1,0 +1,14 @@
+
+def dogyears():
+
+ dog= int(input("number of dogyears"))
+ 
+ 
+d=((dog*7))
+ 
+ 
+print("number of dog years",dog)
+ 
+
+ dogyears()
+ 
