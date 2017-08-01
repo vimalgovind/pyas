@@ -1,0 +1,5 @@
+user = (int(input("Type any number:")))
+if user % 2 == 0:
+ print("The number", user, "is even.")
+else:
+ print("The number", user, "is odd.")
