@@ -1,0 +1,14 @@
+lis =[]
+
+num=int(input("enter the mout of numbers"))
+
+for n in range (num):
+ 
+ numbers=int(input("enter your numbers"))
+
+  lis.append(numbers)
+  
+lis.sort()
+print("maxium element in the list is:",
+ lis[num-1])
+print("mininum element in list is:", lis[0])
