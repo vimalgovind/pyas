@@ -1,0 +1,10 @@
+celcius =0
+
+while celcius <=100:
+ 
+ fahrenheit= (celcius*1.8)+32
+  
+print (celcius,"          ",fahrenheit )
+ 
+ celcius+=5
+ 
