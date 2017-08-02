@@ -1,0 +1,13 @@
+def dogyears ():
+
+ 
+ d=int(input("enter the dog number "))
+
+
+ dog= ((5.0/9.0)*(d-32))
+
+ 
+ print ("dog years,dog)
+
+
+dogyears()  
